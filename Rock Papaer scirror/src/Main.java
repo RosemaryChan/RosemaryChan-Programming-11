@@ -3,11 +3,11 @@ import java.util.Scanner;
 public class    Main
 {
     public static void main(String args[]) {
-        int pchoice = 0;//the value assigned to the player's choice according
-        String pname = "";// name is used for assigning the whole name for the player's choice
-        String cname = "";// Giving a name to the random numbers generated
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Choose rock, paper, or scissors. 'r' for rock, 'p' for paper and 's' for scissor");
+        int pchoice = 0;//Variable to assigne players a number accordint to their choice.
+        String pname = "";//Variable for thw whole name according to player's choice; ex: player chose 'p' then this would be paper
+        String cname = "";// Variable for the name assigning to the computer generated number
+        Scanner scanner = new Scanner(System.in);//importing a scanner so that it could be used later for user input
+        System.out.println("Choose rock, paper, or scissors. 'r' for rock, 'p' for paper and 's' for scissor");//printing out the line in bracket
         int cchoice = (int) (Math.random() * 3);// Computer would radomly generat three numbers
         if (cchoice == 0) {  //assigning names for each of these possible numbers so that afterwards it prints out names insdead of numbers.
             cname += "rock";
@@ -20,7 +20,7 @@ public class    Main
         }
         char player = scanner.next().charAt(0);//User input, I had to go online for this, trying to make this work was a bit of a struggle
         if (player == 'r' || player == 'p' || player == 's') {//grouping for valid input
-            if (player == 'r') {// according to player's choice, giving i a value, and also assigning to thole name to the"name" variable
+            if (player == 'r') {// according to player's choice, giving player's choice a value, and also assigning the whole name to the"name" variable
                 pchoice += 0;
                 pname += "rock";
             }
