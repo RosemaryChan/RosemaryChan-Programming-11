@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1eSVINoTbZZI7cwadmETFTlAUYM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,6 +34,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -58,6 +63,8 @@
       <workItem from="1594314910805" duration="6463000" />
       <workItem from="1595094925205" duration="5072000" />
       <workItem from="1595875600807" duration="2377000" />
+      <workItem from="1613931600252" duration="91000" />
+      <workItem from="1613935364692" duration="245000" />
     </task>
     <servers />
   </component>
@@ -65,33 +72,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="811" y="432" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1594314990920">
+    <state x="355" y="98" key="SettingsEditor" timestamp="1613931698944">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="811" y="432" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594314990920" />
-    <state width="938" height="295" key="GridCell.Tab.0.bottom" timestamp="1595879951743">
+    <state x="355" y="98" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1613931698944" />
+    <state x="606" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1613935540790">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="938" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1595879951743" />
-    <state width="938" height="295" key="GridCell.Tab.0.center" timestamp="1595879951742">
+    <state x="606" y="327" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1613935540790" />
+    <state x="230" y="81" key="new project wizard" timestamp="1613935607244">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="938" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1595879951742" />
-    <state width="938" height="295" key="GridCell.Tab.0.left" timestamp="1595879951741">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="938" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1595879951741" />
-    <state width="938" height="295" key="GridCell.Tab.0.right" timestamp="1595879951743">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="938" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1595879951743" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1595876885639">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1595876885639" />
-    <state x="342" y="166" key="new project wizard" timestamp="1595113651083">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="342" y="166" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1595113651083" />
+    <state x="230" y="81" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1613935607244" />
   </component>
 </project>
